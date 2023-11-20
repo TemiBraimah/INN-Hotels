@@ -3,6 +3,7 @@ Analyse the data of INN Hotels to find which factors have a high influence on bo
 
 
 ########## Data Dictionary
+
 The data contains the different attributes of customers' booking details. The detailed data dictionary is given below.
 
 - Booking_ID: unique identifier of each booking
